@@ -1,12 +1,9 @@
-# Magisk Captive Portal Detection Disabler  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Magisk Captive Control (MCC)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-If you're on GitHub and want to create a Pull/Merge Request, head to this project's [GitLab repo.](https://gitlab.com/Atrate/magisk-captive-portal-disabler)
+If you're on GitHub and want to create a Pull/Merge Request, head to this project's [GitLab repo.](https://gitlab.com/Atrate/magisk-captive-control)
 
 ## Description
-
-A Magisk module designed to disable DRM (Digital Restrictions Management) completely on Android devices using Magisk, for reasons of security or ethics (see: [Opposing Digital Rights Mismanagement](https://www.gnu.org/philosophy/opposing-drm.en.html) and [Examples of proprietary DRM](https://www.gnu.org/proprietary/proprietary-drm.en.html)).
-
-[XDA Support thread](https://forum.xda-developers.com/apps/magisk/module-magisk-drm-disabler-t4070117)
+A Magisk module designed to change the default Android Captive Portal Detection behaviour. It allows the users to either change the default CPD URL from Google's to Kuketz (a security and privacy researcher) or completely disable it. Disabling CPD completely is useful when Android System (UID 1000) is denied all network traffic through a firewall (e.g. AFWall).
 
 ## Installation
 1. Install through Magisk Manager 
@@ -16,7 +13,7 @@ OR
 1. Download the module from the releases
 2. Flash the module through Magisk Manager or TWRP/OrangeFox
 
-### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-captive-portal-disabler/releases) or [GitHub](https://github.com/Atrate/magisk-captive-portal-disabler/releases)
+### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-captive-control/releases) or [GitHub](https://github.com/Atrate/magisk-captive-control/releases)
 
 ---
 
