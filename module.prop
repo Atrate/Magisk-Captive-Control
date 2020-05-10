@@ -3,6 +3,6 @@ name=Magisk Captive Control (MCC)
 version=v1.0.0
 versionCode=100
 author=Atrate
-description=A Magisk Module aiming to control (change/disable) Android Caprive Portal Detection.
+description=A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.
 support=https://gitlab.com/Atrate/magisk-captive-control
 minMagisk=2000
