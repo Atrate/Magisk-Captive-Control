@@ -19,8 +19,11 @@ OR
 
 ## Credits
 topjohnwu for magisk
+
 Kuketz IT-Secutiry
+
 XDA user dhacke
+
 Jman420 for [volume key input](https://github.com/Jman420/magisk_selinux_manager/blob/develop/common/install.sh)
 ## [Changelog](./CHANGELOG)
 
